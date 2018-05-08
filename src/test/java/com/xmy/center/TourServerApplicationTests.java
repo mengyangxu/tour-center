@@ -1,4 +1,4 @@
-package com.xmy.tourserver;
+package com.xmy.center;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
